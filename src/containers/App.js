@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 import Header from "../components/Header";
 import Footer from "../components/Footer";
-import Social from "../components/Social";
 import ErrorPage from "../components/ErrorPage";
 import Home from "./Home";
 import Series from "./Series";
@@ -22,7 +21,6 @@ class App extends Component {
             <Route component={ErrorPage} />
           </Switch>
           <Footer />
-          <Social />
         </div>
       </Router>
     );

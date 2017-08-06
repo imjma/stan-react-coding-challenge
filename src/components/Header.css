@@ -1,0 +1,15 @@
+header .navbar {
+  background-color: #09f;
+  color: #fff;
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav > li > a {
+  color: #fff;
+}
+
+.btn {
+  background-color: #343434;
+  color: #fff;
+  border-color: #343434;
+}

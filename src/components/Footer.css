@@ -9,3 +9,33 @@ li {
   float: left;
   margin-right: 15px;
 }
+
+.footer {
+  background-color: #1e1e1e;
+  color: #fff;
+}
+
+.footer .external-links {
+  overflow: auto;
+}
+
+.social {
+  float: left;
+}
+
+.social img {
+  width: 25px;
+  height: 25px;
+  margin: 0 5px;
+}
+
+.store {
+  float: right;
+  background-color: inherit;
+}
+
+.store img {
+  width: 135px;
+  height: 40px;
+  margin: 0 5px;
+}

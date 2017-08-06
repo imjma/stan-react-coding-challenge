@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import { Navbar } from "react-bootstrap";
 
+import "./Title.css";
+
 class Title extends Component {
   render() {
     const { name } = this.props;
