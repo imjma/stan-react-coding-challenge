@@ -1,0 +1,19 @@
+.social {
+  float: left;
+}
+
+.social img {
+  width: 25px;
+  height: 25px;
+  margin: 0 5px;
+}
+
+.store {
+  float: right;
+}
+
+.store img {
+  width: 135px;
+  height: 40px;
+  margin: 0 5px;
+}
